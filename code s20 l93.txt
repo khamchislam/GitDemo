@@ -1,5 +1,7 @@
 
 PythonSelFramework > Tests > test_e2e.py
+PythonSelFramework > Tests > test_e2e.py 2
+PythonSelFramework > Tests > test_e2e.py 3
 
 
 from selenium.webdriver.common.by import By
